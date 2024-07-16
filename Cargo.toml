@@ -1,0 +1,8 @@
+[package]
+name = "hashcollisions"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10"
+num-bigint = "0.4"
+num-traits = "0.2"
